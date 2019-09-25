@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    //MARK: Properties
+    //MARK: PropertiesFo
     @IBOutlet weak var nameTextField: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
